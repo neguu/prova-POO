@@ -1,0 +1,8 @@
+
+public class Engenheiro {
+	String nome;
+	int horarioDeTrabalho;
+	protected int CPF;
+	int anoInicioEmpresa;
+	
+}

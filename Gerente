@@ -1,0 +1,6 @@
+public class Gerente {
+	String nome;
+	int horarioDeTrabalho;
+	protected int anoInicioEmpresa;
+	int CPF;
+}
